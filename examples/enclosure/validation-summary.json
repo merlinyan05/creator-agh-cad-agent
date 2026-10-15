@@ -1,0 +1,11 @@
+{
+  "kind": "enclosure",
+  "stage": 2,
+  "revision": "r0004",
+  "checks_passed": 41,
+  "checks_total": 41,
+  "dual_parameter_probe_passed": true,
+  "source_sha256": "49c78f01379dd1d937b0c75bf351f7f70d00debc0c2432391ee6efa96a7550c5",
+  "generated_by": "actual AGH model; native AgentCAD execution; independent STEP/BRep checks",
+  "limits": "No physical strength or printing certification; limited two task families"
+}

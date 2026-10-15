@@ -1,0 +1,11 @@
+{
+  "kind": "bracket",
+  "stage": 2,
+  "revision": "r0004",
+  "checks_passed": 26,
+  "checks_total": 26,
+  "dual_parameter_probe_passed": true,
+  "source_sha256": "f347073a8ba03573232c6a35174b51970a4ec44b4268bab2118053430518b61f",
+  "generated_by": "actual AGH model; native AgentCAD execution; independent STEP/BRep checks",
+  "limits": "No physical strength or printing certification; limited two task families"
+}
